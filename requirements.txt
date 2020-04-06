@@ -9,7 +9,6 @@ ipaddress==1.0.17
 keyring==10.6.0
 keyrings.alt==3.0
 oauthlib==3.1.0
-pycrypto==2.6.1
 pygobject==3.26.1
 PyJWT==1.5.3
 pyOpenSSL==17.5.0
